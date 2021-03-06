@@ -35,6 +35,8 @@ NAME="starboy connection"
 UUID=aa6030d6-23bf-430f-8ebc-d5c81874d132
 DEVICE=ens33
 ONBOOT=yes
+
+
 TYPE=Ethernet
 PROXY_METHOD=none
 BROWSER_ONLY=no
